@@ -56,8 +56,8 @@ nav {
 
 .post {
   blockquote {
-    /*border-left: 2px solid $gray;*/
-    color: $gray;
+    /*border-left: 2px solid #666;*/
+    color: #666;
     font-size: 22px;
     font-style: italic;
     background-color: #ede1ff;
