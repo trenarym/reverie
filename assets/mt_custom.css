@@ -12,7 +12,7 @@ h4 {
 }
 
 span[data-pullquote]:before {
-  color: #a53200;
+  color: #b9552a;
 }
 
 a {
@@ -23,7 +23,7 @@ a {
 }
 
 .site-name {
-  color: #a53200;
+  color: #b9552a;
   font-family: "limon-bold-marker", sans-serif;
   font-weight: 400;
   font-style: normal;
@@ -45,7 +45,7 @@ nav {
   font-size: 22px;
 
   a {
-    color: #a64d00;
+    color: $blue;
 
     @include mobile {
       margin: 0 10px;
