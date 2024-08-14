@@ -12,7 +12,7 @@ h4 {
 }
 
 span[data-pullquote]:before {
-  color: #34316D;
+  color: #a53200;
 }
 
 a {
@@ -62,8 +62,6 @@ nav {
     font-style: italic;
     background-color: #ede1ff;
   }
-
-.post-tags {
 }
   
 .post-tags a {
