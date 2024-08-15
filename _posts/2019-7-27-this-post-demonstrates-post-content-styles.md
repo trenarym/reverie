@@ -16,6 +16,8 @@ Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit maur
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit.
 
+Here's an image: ('image of desert')['assets/desert.jpg']
+
 ### Some great subheading (h3)
 
 Proin convallis mi ac felis pharetra aliquam. Curabitur dignissim accumsan rutrum. In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum.
