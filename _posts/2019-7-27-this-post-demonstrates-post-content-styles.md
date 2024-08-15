@@ -16,9 +16,9 @@ Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit maur
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit.
 
-Here's an image: ![image of desert](/assets/desert.jpg 'title')
+Here's an image: ![image of desert](/reverie/assets/desert.jpg 'title')
 
-Here's that image in a pullquote: <span class='pullquote'>![image of desert](/assets/desert.jpg 'title')</span>
+Here's that image in a pullquote: <span class='pullquote'>![image of desert](/reverie/assets/desert.jpg 'title')</span>
 
 ### Some great subheading (h3)
 
