@@ -22,7 +22,7 @@ Proin convallis mi ac felis pharetra aliquam. Curabitur dignissim accumsan rutru
 
 Phasellus et hendrerit mauris. Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc.
 
-<span class='you-may-like>You may like</span>
+<span class='you-may-like'>You may like</span>
 
 ### Some great subheading (h3)
 
