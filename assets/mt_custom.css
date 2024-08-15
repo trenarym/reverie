@@ -61,17 +61,17 @@ nav {
     color: #666;
     font-size: 22px;
     font-style: italic;
-    background-color: #fff;
+    background-color: #ddffb5;
   }
 
   .you-may-like{
     margin: 1.8em .8em;
     /*border-left: 2px solid $gray;*/
     padding: 0.1em 1em;
-    color: $gray;
+    color: #666;
     font-size: 22px;
     font-style: italic;
-    background-color: #ddffb5;;
+    background-color: #ddffb5;
   }
 }
   
