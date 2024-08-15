@@ -54,6 +54,7 @@ nav {
   }
 }
 
+.post {
   blockquote {
     margin: 1.8em .8em;
     /*border-left: 2px solid $gray;*/
@@ -73,6 +74,7 @@ nav {
     font-style: italic;
     background-color: #7d0c25;
   }
+}
   
 .post-tags a {
   background-color: #60a6db;
