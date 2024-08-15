@@ -54,11 +54,13 @@ nav {
   }
 }
 
-  blockquote {
+  .post {
+    blockquote {
     color: #666;
     font-size: 22px;
     font-style: italic;
     background-color: #ddffb5;
+  }
   }
   
 .post-tags a {
