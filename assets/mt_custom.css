@@ -54,13 +54,24 @@ nav {
   }
 }
 
-.post {
   blockquote {
-    /*border-left: 2px solid #666;*/
-    color: #666;
-    font-size: 14px;
+    margin: 1.8em .8em;
+    /*border-left: 2px solid $gray;*/
+    padding: 0.1em 1em;
+    color: $gray;
+    font-size: 22px;
     font-style: italic;
-    background-color: #fff;
+    background-color: #ede1ff;
+  }
+
+  .you-may-like{
+    margin: 1.8em .8em;
+    /*border-left: 2px solid $gray;*/
+    padding: 0.1em 1em;
+    color: $gray;
+    font-size: 22px;
+    font-style: italic;
+    background-color: #ddffb5;;
   }
 }
   
