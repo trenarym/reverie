@@ -18,6 +18,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eg
 
 Here's an image: ![image of desert](/assets/desert.jpg 'title')
 
+Here's that image in a pullquote: <span class='pullquote'>![image of desert](/assets/desert.jpg 'title')</span>
+
 ### Some great subheading (h3)
 
 Proin convallis mi ac felis pharetra aliquam. Curabitur dignissim accumsan rutrum. In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum.
