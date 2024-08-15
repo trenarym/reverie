@@ -54,7 +54,7 @@ nav {
   }
 }
 
-  article {
+  .entry {
     blockquote {
     color: #666;
     font-size: 22px;
