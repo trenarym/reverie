@@ -18,7 +18,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eg
 
 Here's an image: ![image of desert](/reverie/assets/desert.jpg 'title')
 
-Here's that image in a pullquote: <span class='pullquote'>![image of desert](/reverie/assets/desert.jpg 'title')</span>
+Here's that image in a pullquote: {% include pullquote.html quote=<span class='pullquote'>![image of desert](/reverie/assets/desert.jpg 'title')</span>%}
 
 ### Some great subheading (h3)
 
