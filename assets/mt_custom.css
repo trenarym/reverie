@@ -54,12 +54,14 @@ nav {
   }
 }
 
-    blockquote {
-    color: #666;
-    font-size: 22px;
-    font-style: italic;
-    background-color: #ddffb5;
-  }
+/* blockquote
+Couldn't get it to work.
+Updated the following in style.scss
+    color: $darkGray;
+    font-size: 15px;
+    font-style: normal;
+    background-color: #fff;
+*/
   
 .post-tags a {
   background-color: #60a6db;
