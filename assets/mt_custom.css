@@ -81,8 +81,12 @@ Updated the following in style.scss
   padding-left: 3px;
 }
 
-img .img-right {
-	float: right;
-	margin: 5px;
-	width: 10%;
+img {
+	
+  .img-right {
+  float: right;
+  margin: 5px;
+  width: 10%;
+  }
+	
 }
