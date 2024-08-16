@@ -82,11 +82,9 @@ Updated the following in style.scss
 }
 
 img {
-	
   .img-right {
   float: right;
   margin: 5px;
   width: 10%;
-  }
-	
+  }	
 }
