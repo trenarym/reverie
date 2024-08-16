@@ -80,3 +80,8 @@ Updated the following in style.scss
   padding-right: 8px;
   padding-left: 3px;
 }
+
+img .img-right {
+	float: right;
+	margin: 5px;
+}
