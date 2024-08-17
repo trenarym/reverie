@@ -20,9 +20,7 @@ layout: default
         <a href="{{site.baseurl}}/categories/#{{category|slugize}}">{{category}}</a>
         {% unless forloop.last %}&nbsp;{% endunless %}
       {% endfor %}
-    </div>
-
-    <div class="post-tags">
+- 
       {% if post %}
         {% assign tags = tags %}
       {% else %}
