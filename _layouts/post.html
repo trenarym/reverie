@@ -21,6 +21,19 @@ layout: default
         {% unless forloop.last %}&nbsp;{% endunless %}
       {% endfor %}
     </div>
+
+    <div class="post-categories">
+      {% if post %}
+        {% assign tags = tags %}
+      {% else %}
+        {% assign tags = page.tags %}
+      {% endif %}
+      {% for tag in tags %}
+        <a href="{{site.baseurl}}/tags/#{{tag|slugize}}">{{tag}}</a>
+        {% unless forloop.last %}&nbsp;{% endunless %}
+      {% endfor %}
+    </div>
+    
   </div>
     
   <div class="entry">
