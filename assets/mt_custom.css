@@ -57,10 +57,7 @@ nav {
 /* blockquote
 Couldn't get it to work.
 Updated the following in style.scss
-    color: $darkGray;
-    font-size: 15px;
-    font-style: normal;
-    background-color: #fff;
+    color, font-size, font-style, background-color
 */
   
 .post-tags a {
